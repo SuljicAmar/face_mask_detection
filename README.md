@@ -13,7 +13,6 @@ I used a dataset from Kaggle [https://www.kaggle.com/datasets/shiekhburhan/face-
 The evaluation was performed on fairly balanced classses as shown by the support below
 
                 precision    recall  f1-score   support
-
 incorrect_mask       0.97      0.95      0.96      1012
      with_mask       0.89      0.89      0.89       942
   without_mask       0.90      0.92      0.91       953
